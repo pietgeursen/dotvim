@@ -9,12 +9,11 @@
 
 " Vundle itself
 Bundle 'gmarik/vundle'
-" Required for settings
-Bundle 'chriskempson/base16-vim'
 
 " General
 if count(g:vundles, 'general')
   Bundle 'scrooloose/nerdtree'
+  Bundle 'chriskempson/base16-vim'
   Bundle 'YankRing.vim'
   let g:yankring_history_dir = $HOME.'/.vim/'
   let g:yankring_history_file = '.yankring_history'
@@ -86,7 +85,7 @@ endif
 " HTML
 if count(g:vundles, 'html')
   Bundle 'HTML-AutoCloseTag'
-  Bundle 'hail2u/vim-css3-syntax'
+  Bundle 'ChrisYip/Better-CSS-Syntax-for-Vim'
   Bundle 'juvenn/mustache.vim'
 endif
 

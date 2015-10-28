@@ -11,7 +11,7 @@
 " Ctrl-F4 to Display the file browser tree
 nmap <F4> :NERDTreeTabsToggle<CR>
 " ,p to show current file in the tree
-nmap <leader>p :NERDTreeFind<CR>
+"nmap <leader>p :NERDTreeFind<CR>
 
 autocmd WinEnter * call s:CloseIfOnlyNerdTreeLeft()
 

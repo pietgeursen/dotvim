@@ -77,7 +77,7 @@ Plugins groups:
     - taxilian/vim-web-indent
   - HTML
     - HTML-AutoCloseTag
-    - hail2u/vim-css3-syntax
+    - ChrisYip/Better-CSS-Syntax-for-Vim
   - Ruby
     - tpope/vim-rails
   - Misc
