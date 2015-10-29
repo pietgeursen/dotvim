@@ -9,7 +9,7 @@
 
 " nerdtree
 " Ctrl-F4 to Display the file browser tree
-nmap <F4> :NERDTreeTabsToggle<CR>
+nmap <F3> :NERDTreeToggle<CR>
 " ,p to show current file in the tree
 "nmap <leader>p :NERDTreeFind<CR>
 
