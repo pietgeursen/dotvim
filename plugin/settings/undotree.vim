@@ -7,5 +7,5 @@
 "   Ben O'Hara <bohara@gmail.com>
 "
 
-nnoremap <F3> :UndotreeToggle<cr>
+"nnoremap <F3> :UndotreeToggle<cr>
 
