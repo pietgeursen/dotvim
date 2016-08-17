@@ -46,6 +46,7 @@ set autoindent          " automatically indent new line
 
 set ts=2                " number of spaces in a tab
 set sw=2                " number of spaces for indent
+set softtabstop=2
 set et                  " expand tabs into spaces
 
 " mouse settings
